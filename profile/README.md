@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction:
 DOS stands for Decentralized Operating System. We are building a better user expeirence for Web3.
 
+
+
+<!--
+
+**Here are some ideas to get you started:**
 🌈 Contribution guidelines - how can the community get involved?
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
